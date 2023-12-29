@@ -1,4 +1,4 @@
-# GYM FOR NEWBIE
+# WIRID
 
-* [LANDING PAGE](https://gonexwind.github.io/gymfornewbie/)
+* [LANDING PAGE](https://gonexwind.github.io/wirid/)
 
